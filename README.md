@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Junior@Techmetothemoon
--
+- 👋 Hi, I’m Kusi Brempong Jr @Techmetothemoon
 - 🌱 I’m currently studying at AltSchool Africa School of Product
 - 💞️ I’m looking to collaborate on source projects & hackathons 
 - 📫 You can reach me via email kusibrempongjr@gmail.com
